@@ -81,7 +81,7 @@
   (net 3 "Net-(J1-Pin_3)")
   (net 4 "Net-(J1-Pin_5)")
 
-  (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" (layer "F.Cu")
+  (footprint "Ivan Hawkes:PinHeader_1x05_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 1c7f6c84-b8b1-4222-a346-23d1f59f951e)
     (at 48.26 63.5)
     (descr "Through hole straight pin header, 1x05, 2.54mm pitch, single row")
@@ -151,7 +151,7 @@
     )
   )
 
-  (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" (layer "F.Cu")
+  (footprint "Ivan Hawkes:PinHeader_1x05_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp cb365e8c-a27d-4b8c-bf74-8597bc74f3db)
     (at 78.74 63.5)
     (descr "Through hole straight pin header, 1x05, 2.54mm pitch, single row")
